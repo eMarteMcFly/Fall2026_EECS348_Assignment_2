@@ -9,9 +9,9 @@
  * Inputs: Standard input (stdin) containing commands (EMAIL, NEXT, READ, COUNT) 
  *         and comma-separated email details.
  * Output: Standard output (stdout) detailing email counts and peak email details.
- * All Collaborators: None
+ * All Collaborators: Myself and Gemini
  * Other Sources: Standard C library documentation
- * Author's Full Name: [Your Full Name]
+ * Author's Full Name: Erick Marte
  * Creation Date: September 17, 2026
  * Revision Date: September 17, 2026
  * Revisions: Initial C implementation with error handling and heap management.
